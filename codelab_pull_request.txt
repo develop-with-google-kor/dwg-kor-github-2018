@@ -6,7 +6,7 @@ Mar: seralee
 Apr:
 May: ericjeong
 Jun:
-Jul:
+Jul: dreamchaser3
 Aug:
 Sept:
 Oct: jurampark16
@@ -19,3 +19,4 @@ jurampark16: https://github.com/jurampark16/dwg-2017-practice-git
 dwg-hcpark: https://github.com/dwg-hcpark/dwg-kor-github
 ericjeong: https://github.com/babyimp/testproject
 seralee: https://github.com/leesera/GG_TEST
+dreamchaser3: https://github.com/dreamchaser3/test
