@@ -4,7 +4,7 @@ Jan: dwg-hcpark
 Feb:
 Mar: seralee
 Apr:
-May: ericjeong
+May: ericjeong, SoyeeChoi
 Jun:
 Jul:
 Aug:
@@ -19,3 +19,4 @@ jurampark16: https://github.com/jurampark16/dwg-2017-practice-git
 dwg-hcpark: https://github.com/dwg-hcpark/dwg-kor-github
 ericjeong: https://github.com/babyimp/testproject
 seralee: https://github.com/leesera/GG_TEST
+SoyeeChoid: https://github.com/Csoyee/codelab1.git
