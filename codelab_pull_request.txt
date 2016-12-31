@@ -1,7 +1,7 @@
 Step1, Please append your name in the month of your birth.
 
 Jan: dwg-hcpark
-Feb:
+Feb: SeoJung
 Mar: seralee
 Apr:
 May: ericjeong
@@ -19,3 +19,4 @@ jurampark16: https://github.com/jurampark16/dwg-2017-practice-git
 dwg-hcpark: https://github.com/dwg-hcpark/dwg-kor-github
 ericjeong: https://github.com/babyimp/testproject
 seralee: https://github.com/leesera/GG_TEST
+SeoJung: https://github.com/SeoJungHong/homework
