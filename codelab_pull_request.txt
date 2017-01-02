@@ -4,21 +4,21 @@ Jan: dwg-hcpark
 Feb: SeoJung
 Mar: seralee
 Apr: JungMinOh
-May: ericjeong
+May: ericjeong, SoyeeChoi
 Jun:
 Jul:
 Aug:
 Sept:
-Oct: jurampark16
+Oct:
 Nov: hyunSo
 Dec:
 
 Step2, Please append your own repository url. ( format is yourname:url )
 
-jurampark16: https://github.com/jurampark16/dwg-2017-practice-git
 dwg-hcpark: https://github.com/dwg-hcpark/dwg-kor-github
 ericjeong: https://github.com/babyimp/testproject
 seralee: https://github.com/leesera/GG_TEST
+SoyeeChoi: https://github.com/Csoyee/codelab1
 SeoJung: https://github.com/SeoJungHong/homework
 hyunSo: https://github.com/hyunSo/DwG
 JungMinOh: https://github.com/TimidLion/codelab
