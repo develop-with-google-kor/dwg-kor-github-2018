@@ -1,6 +1,6 @@
 Step1, Please append your name in the month of your birth.
 
-Jan: dwg-hcpark, yliayoo
+Jan: dwg-hcpark, yliayoo, hyunMin11
 Feb: SeoJung
 Mar: seralee
 Apr: JungMinOh
@@ -25,4 +25,4 @@ JungMinOh: https://github.com/TimidLion/codelab
 JihyungMoon: https://github.com/Juung/test
 yliayoo: https://github.com/yliayoo/DwG_pre_work
 leesr: https://github.com/leesr/Pre-workForGithub
-
+hyunMin11: https://github.com/hyunMin11/favorite_11
