@@ -1,0 +1,28 @@
+Step1, Please append your name in the month of your birth.
+
+Jan: dwg-hcpark, yliayoo
+Feb: SeoJung
+Mar: seralee
+Apr: JungMinOh
+May: ericjeong, SoyeeChoi, leesr
+Jun:
+Jul:
+Aug:
+Sept:
+Oct:
+Nov: hyunSo, JihyungMoon
+Dec:
+
+Step2, Please append your own repository url. ( format is yourname:url )
+
+dwg-hcpark: https://github.com/dwg-hcpark/dwg-kor-github
+ericjeong: https://github.com/babyimp/testproject
+seralee: https://github.com/leesera/GG_TEST
+SoyeeChoi: https://github.com/Csoyee/codelab1
+SeoJung: https://github.com/SeoJungHong/homework
+hyunSo: https://github.com/hyunSo/DwG
+JungMinOh: https://github.com/TimidLion/codelab
+JihyungMoon: https://github.com/Juung/test
+yliayoo: https://github.com/yliayoo/DwG_pre_work
+leesr: https://github.com/leesr/Pre-workForGithub
+
