@@ -3,7 +3,7 @@ Step1, Please append your name in the month of your birth.
 Jan: dwg-hcpark, yliayoo
 Feb: SeoJung
 Mar: seralee
-Apr: JungMinOh
+Apr: JungMinOh, Dayoung
 May: ericjeong, SoyeeChoi, leesr
 Jun:
 Jul:
@@ -25,4 +25,5 @@ JungMinOh: https://github.com/TimidLion/codelab
 JihyungMoon: https://github.com/Juung/test
 yliayoo: https://github.com/yliayoo/DwG_pre_work
 leesr: https://github.com/leesr/Pre-workForGithub
+dayoung : https://github.com/Leedayoung/Kwaii_dayoung
 
