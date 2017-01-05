@@ -7,7 +7,7 @@ Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr
 Jun:
 Jul: KyoungahKwon
-Aug:
+Aug: ygyoon
 Sept:
 Oct:
 Nov: hyunSo, JihyungMoon
@@ -26,3 +26,4 @@ JihyungMoon: https://github.com/Juung/test
 yliayoo: https://github.com/yliayoo/DwG_pre_work
 leesr: https://github.com/leesr/Pre-workForGithub
 Kyoungah-kwon: https://github.com/KyuaKwon/dwg-codelab
+ygyoon: https://github.com/czerny92/TEST_HI
