@@ -6,7 +6,7 @@ Mar: seralee
 Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin
 Jun:
-Jul:
+Jul: KyoungahKwon
 Aug: ygyoon
 Sept:
 Oct:
@@ -25,6 +25,6 @@ JungMinOh: https://github.com/TimidLion/codelab
 JihyungMoon: https://github.com/Juung/test
 yliayoo: https://github.com/yliayoo/DwG_pre_work
 leesr: https://github.com/leesr/Pre-workForGithub
+Kyoungah-kwon: https://github.com/KyuaKwon/dwg-codelab
 syshin: https://github.com/melonpeach/dwg-codelab
 ygyoon: https://github.com/czerny92/TEST_HI
-
