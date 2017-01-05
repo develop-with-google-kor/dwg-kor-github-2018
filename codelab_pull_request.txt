@@ -4,7 +4,7 @@ Jan: dwg-hcpark, yliayoo
 Feb: SeoJung
 Mar: seralee
 Apr: JungMinOh
-May: ericjeong, SoyeeChoi, leesr
+May: ericjeong, SoyeeChoi, leesr, syshin
 Jun:
 Jul:
 Aug: ygyoon
@@ -25,5 +25,6 @@ JungMinOh: https://github.com/TimidLion/codelab
 JihyungMoon: https://github.com/Juung/test
 yliayoo: https://github.com/yliayoo/DwG_pre_work
 leesr: https://github.com/leesr/Pre-workForGithub
+syshin: https://github.com/melonpeach/dwg-codelab
 ygyoon: https://github.com/czerny92/TEST_HI
 
