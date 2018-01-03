@@ -7,7 +7,7 @@ Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin
 Jun:
 Jul:
-Aug: ygyoon
+Aug: ygyoon, YuJin
 Sept:
 Oct:
 Nov: hyunSo, JihyungMoon
@@ -27,4 +27,4 @@ yliayoo: https://github.com/yliayoo/DwG_pre_work
 leesr: https://github.com/leesr/Pre-workForGithub
 syshin: https://github.com/melonpeach/dwg-codelab
 ygyoon: https://github.com/czerny92/TEST_HI
-
+YuJin: https://github.com/jangjean/Practice
